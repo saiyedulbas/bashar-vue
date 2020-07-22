@@ -1,6 +1,7 @@
 {
-  "name": "vue_crash_todolist",
-  "version": "0.1.0",
+  "name": "bashar_vue_app",
+  "author": "Saiyedul Bashar",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node server.js",
